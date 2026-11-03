@@ -1,5 +1,5 @@
 :root {
-  --ui-background-image: url("/BIRTHDAY/UI\ Background.jpg");
+  --ui-background-image: url(/BIRTHDAY/UI\ Background.jpg);
   --blue-950: #071633;
   --blue-900: #0b2150;
   --blue-700: #1a4cb3;
